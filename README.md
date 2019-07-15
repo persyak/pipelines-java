@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/persyak/StudyProject/_apis/build/status/persyak.pipelines-java?branchName=master)](https://dev.azure.com/persyak/StudyProject/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
